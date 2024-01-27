@@ -1,4 +1,4 @@
-// Coding Everyday: Reduce but Grow
+// Coding Everyday: Is he gonna survive?
 // January 27, 2024
 // https://www.codewars.com/kata/59ca8246d751df55cc00014c
 
