@@ -1,5 +1,5 @@
 // Coding Everyday: Reduce but Grow
-// January 24, 2024
+// January 27, 2024
 // https://www.codewars.com/kata/57f780909f7e8e3183000078
 
 // Solution #01

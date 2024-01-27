@@ -1,5 +1,5 @@
 // Coding Everyday: Reversed sequence
-// January 24, 2024
+// January 27, 2024
 // https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 
 // Solution #01
@@ -27,4 +27,5 @@
 // without reverse, we start with the n index
 const reverseSeq = n => [...Array(n)].map((elmt, i) => n - i);
 
+// test: must be returned [ 5, 4, 3, 2, 1 ]
 console.log(reverseSeq(5));
