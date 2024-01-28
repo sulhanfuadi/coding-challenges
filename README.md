@@ -1,16 +1,20 @@
-# Pustaka Code Challenges Solutions
-Repository ini berisi solusi dari code challenges yang saya kerjakan setiap harinya.
+# Code Challenges Solutions Library
+This repository contains solutions to code challenges that I work on every day.
 
-## Perhatian !!!
-Repository ini saya buat dengan tujuan sebagai bahan refrensi untuk menyelesaikan code challenges pada 
-<strong>seluruh platform yang saya gunakan</strong> agar dapat membantu teman - teman dalam menyelesaikan challenge yang sedang dikerjakan. 
-Saya berharap teman - teman bijak dengan tidak hanya sekedar <strong>mengcopy-paste</strong> saja tanpa benar-benar memahaminya. 
-Sekian, semoga bermanfaat.
+## Attention !!!
+I created this repository as reference material for solving code challenges on all platforms I use to help you complete the challenges you are working on.
+I hope you are wise and <strong>don't just copy-paste</strong> without understanding.
+That's all; hopefully, it's useful, thank you.
 
-
-### Reference
+## Reference
 - <strong>[TANTANGAN CODING 2024 by Web Programming UNPAS](https://youtube.com/playlist?list=PLFIM0718LjIVrOglQcS_ZHkT5T_27Cmea&si=qz8ygKHs5HYnxPn9)</strong>
 - <strong>[Codewars - JavaScript - Level 8 kyu by ShortBear](https://youtube.com/playlist?list=PLDVHxUyqluR1l9q2TYHiiUqcfuaTozLov&si=HQAWiEroVoM9WJJL)</strong>
 
 ### Author
 <strong>[Sulhan Fuadi](https://github.com/sulhanfuadi)</strong>
+
+---
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sulhanfuadi/coding-everyday)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sulhanfuadi/coding-everyday)
+![GitHub last commit](https://img.shields.io/github/last-commit/sulhanfuadi/coding-everyday)
