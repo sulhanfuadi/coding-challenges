@@ -10,12 +10,15 @@
 // }
 
 // Solution #02
+// const digitize = n => n.toString().split('').reverse().map(nString => parseInt(nString));
+
+// Solution #03
 // function digitize(n) {
 //   return String(n).split('').map(Number).reverse();
 // }
 
-// Solution #03
-const digitize = n => n.toString().split('').reverse().map(nString => parseInt(nString));
+// Solution #04
+const digitize = n => String(n).split('').map(Number).reverse();
 
 // test: must be returned [1, 3, 2, 5, 3]
 console.log(digitize(35231));
