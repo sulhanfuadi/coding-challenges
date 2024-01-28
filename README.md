@@ -1,5 +1,5 @@
 # Code Challenges Solutions Library
-This repository contains solutions to code challenges that I work on every day.
+Warning: This repository contains traces of sleep deprivation, questionable logic, and enough caffeine to power a small rocket. Enter at your own peril.
 
 ## Attention!!!
 I created this repository as reference material for solving code challenges on all platforms I use to help you complete the challenges you are working on.
