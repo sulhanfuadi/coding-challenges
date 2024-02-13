@@ -28,7 +28,7 @@
 //   return (score < 60)? 'F': (score < 70)? 'D' : (score < 80)? 'C' : (score < 90)? 'B': 'A';
 // }
 
-// Solution #03
+// Solution #04
 const getGrade = (...s) => ((s.reduce((acc, curr) => acc + curr) / s.length) < 60)? 'F': ((s.reduce((acc, curr) => acc + curr) / s.length) < 70)? 'D' : ((s.reduce((acc, curr) => acc + curr) / s.length) < 80)? 'C' : ((s.reduce((acc, curr) => acc + curr) / s.length) < 90)? 'B': 'A';
 
 // test: should return 'A'
