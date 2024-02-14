@@ -12,7 +12,7 @@
 //   return 'A';
 // }
 
-// // Solution #02
+// Solution #02
 // function getGrade(...s) {
 //   const score = s.reduce((acc, curr) => acc + curr) / s.length;
 //   if (score < 60) return 'F';
