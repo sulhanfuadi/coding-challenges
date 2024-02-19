@@ -1,5 +1,5 @@
 // Coding Everyday: Area or Perimeter
-// February 19, 2024
+// February 20, 2024
 // https://www.codewars.com/kata/5ab6538b379d20ad880000ab
 
 // Solution #01
