@@ -1,6 +1,6 @@
 // Coding Everyday: Powers of 2
 // February 23, 2024
-// https://www.codewars.com/kata/5772da22b89313a4d50012f7
+// https://www.codewars.com/kata/57a083a57cb1f31db7000028
 
 // Solution #01
 // function powersOfTwo(n){
