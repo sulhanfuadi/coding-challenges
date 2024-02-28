@@ -1,6 +1,6 @@
 // Coding Everyday: Find Multiples of a Number
 // February 29, 2024
-// https://www.codewars.com/kata/57202aefe8d6c514300001fd
+// https://www.codewars.com/kata/58ca658cc0d6401f2700045f
 
 // Solution #01
 // export function findMultiples(integer: number, limit: number): number[] {
