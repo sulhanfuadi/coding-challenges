@@ -12,7 +12,7 @@ That's all; hopefully, it's useful, thank you.
 - <strong>[Codewars - JavaScript - Level 8 kyu by ShortBear](https://youtube.com/playlist?list=PLDVHxUyqluR1l9q2TYHiiUqcfuaTozLov&si=HQAWiEroVoM9WJJL)</strong>
 - <strong>[Codewars - TypeScript - Level 8 kyu by ShortBear](https://youtube.com/playlist?list=PLDVHxUyqluR2ZxzlXSxqofQEqbv7ysxlR&si=gVhsGpwQmUVyoNou)</strong>
 
-### Author
+## Author
 <strong>[Sulhan Fuadi](https://github.com/sulhanfuadi)</strong>
 
 ---
