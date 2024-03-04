@@ -12,9 +12,9 @@
 // }
 
 // Solution #02 by sgmaster, g964, dmivlge, lex-of-pakawa, Makrem Somai, Hanen Touaiti, insafnouira, OlFi, user2035321, Anas10010000 (+ 190)
-function sumMix(x){
-  return x.map(a => +a).reduce((a, b) => a + b);
-}
+// function sumMix(x){
+//   return x.map(a => +a).reduce((a, b) => a + b);
+// }
 
 // Solution #03
 const sumMix = (x) => x.reduce((acc, crr) => acc + +crr, 0);
