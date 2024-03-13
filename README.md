@@ -15,6 +15,9 @@ That's all; hopefully, it's useful, thank you.
 ## Author
 <strong>[Sulhan Fuadi](https://github.com/sulhanfuadi)</strong>
 
+<img src="https://www.codewars.com/users/sulhanfuadi/badges/small" >
+
+
 ---
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sulhanfuadi/coding-everyday)
