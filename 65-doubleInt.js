@@ -10,5 +10,5 @@ function doubleInteger(i) {
 // Solution #02 
 const doubleInteger = (i) => i * 2;
 
-// test: should return [1, 2, 2, 3]
-console.log(flip('R', [3, 2, 1, 2]))
+// test: should return 4
+console.log(doubleInteger(2))
