@@ -9,7 +9,7 @@ function findAverage(array) {
 }
 
 // Solution #02 by khlivnyuk, 88Sokoloff, Ursovden, Darya Lukyanenko, Svechnikov Yaroslav
-const find_average = array => array.reduce((acc, curr) => acc + curr, 0) / array.length || 0;
+// const findAverage = array => array.reduce((acc, curr) => acc + curr, 0) / array.length || 0;
 
 // test: should return 2.5
 console.log(findAverage([1,2,3,4]))
