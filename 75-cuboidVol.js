@@ -14,5 +14,5 @@ const Kata = {
   getVolumeOfCuboid : (length, width, height) => length * width * height
 }
 
-// test: should return 4
+// test: should return 4 
 console.log(getVolumeOfCuboid(1,2,2))
