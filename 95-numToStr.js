@@ -8,7 +8,7 @@ function numberToString(num) {
 }
 
 // Solution #02 by Shraymonks, freakyscream, dorayme, 0xjgv, thogrego, wgrisa, alevet, PanMaciek, sztadii, Leon Knabel (+ 480)
-const numberToString = num => `${num}`;
+// const numberToString = num => `${num}`;
 
 // test: should return '67'
 console.log(numberToString(67))
