@@ -16,7 +16,7 @@ That's all; hopefully, it's useful, thank you.
 <strong>[Sulhan Fuadi](https://github.com/sulhanfuadi)</strong>
 
 <!-- <img src="https://www.codewars.com/users/sulhanfuadi/badges/small" >  -->
-
+<img src="https://www.codewars.com/users/sulhanfuadi/badges/small" >
 
 ---
 
