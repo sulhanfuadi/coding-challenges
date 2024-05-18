@@ -1,6 +1,6 @@
-// Well of Ideas - Easy Version
-// May 19, 2024
-// https://www.codewars.com/kata/57f222ce69e09c3630000212
+// Jenny's secret message
+// May 20, 2024
+// https://www.codewars.com/kata/55225023e1be1ec8bc000390
 
 // Solution #01
 
