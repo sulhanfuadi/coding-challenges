@@ -1,6 +1,6 @@
-// How much water do I need?
-// May 22, 2024
-// https://www.codewars.com/kata/575fa9afee048b293e000287
+// Online RPG: player to qualifying stage?
+// May 23, 2024
+// https://www.codewars.com/kata/55849d76acd73f6cc4000087
 
 // Solution #01
 
