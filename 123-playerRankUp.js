@@ -3,10 +3,14 @@
 // https://www.codewars.com/kata/55849d76acd73f6cc4000087
 
 // Solution #01
+// function playerRankUp (points) {
+//     return points >= 100 ? "Well done! You have advanced to the qualifying stage. Win 2 out of your next 3 games to rank up." : false;
+// }
 
+// Solution #02 by KSA
+function playerRankUp(p){
+  return p >= 100 && "Well done! You have advanced to the qualifying stage. Win 2 out of your next 3 games to rank up."
+}
 
-// Solution #02 by vatson
-
-
-// test: should return 'Too much clothes'
-console.log(howMuchWater(10,10,21));
+// test: should return "Well done! You have advanced to the qualifying stage. Win 2 out of your next 3 games to rank up."
+console.log(playerRankUp(101));

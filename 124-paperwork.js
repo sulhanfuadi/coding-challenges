@@ -1,6 +1,6 @@
-// How much water do I need?
+// Beginner Series #1 School Paperwork
 // May 24, 2024
-// https://www.codewars.com/kata/575fa9afee048b293e000287
+// https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd
 
 // Solution #01
 
