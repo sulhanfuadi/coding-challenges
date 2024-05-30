@@ -18,5 +18,5 @@ class Cube {
 // Solution #02 by vatson
 
 
-// test: should return 'xxxxx'
+// test: should return 'xxxxxx'
 console.log(howMuchWater(10,10,21));
