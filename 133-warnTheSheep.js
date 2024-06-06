@@ -10,5 +10,8 @@ function warnTheSheep(queue) {
     return `Oi! Sheep number ${wolfPosition}! You are about to be eaten by a wolf!`;
 }
 
-// Solution #02 by vatson
-
+// Solution #02 by adrian.eyre, Rou97, chaymaISETCH, goldangera, cbw29512, Sarah soltani, marwen3216, L-Hejer, abshukla_, DolgKreker (+ 119)
+function warnTheSheep(queue) {
+  const position = queue.reverse().indexOf('wolf');
+  return position === 0 ? 'Pls go away and stop eating my sheep' : `Oi! Sheep number ${ position }! You are about to be eaten by a wolf!`;
+}
