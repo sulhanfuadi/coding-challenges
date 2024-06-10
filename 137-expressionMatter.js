@@ -7,7 +7,7 @@ function expressionMatter(a, b, c) {
   return // highest achievable result
 }
 
-// Solution #02 by vatson
+// Solution #02 by vatsonn
 
 
 // test: should return 6
