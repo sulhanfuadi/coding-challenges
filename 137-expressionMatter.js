@@ -4,7 +4,7 @@
 
 // Solution #01
 function expressionMatter(a, b, c) {
-  return // highest achievable result
+  return Math.max(a + b + c, a * b * c, (a + b) * c, a * (b + c));
 }
 
 // Solution #02 by vatsonn
