@@ -1,5 +1,5 @@
 // Lagipula Hidup Akan Berakhir
-// June 01, 2024
+// June 21, 2024
 // https://www.codewars.com/kata/575fa9afee048b293e000287
 
 // Solution #01
