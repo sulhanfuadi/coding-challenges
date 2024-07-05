@@ -1,12 +1,10 @@
 // Lagipula Hidup Akan Berakhir
-// June 21, 2024
+// July 01, 2024
 // https://www.codewars.com/kata/575fa9afee048b293e000287
 
 // Solution #01
 
-
-// Solution #02 by vatson
-
+// Solution #02 by ysurilov
 
 // test: should return 'xxxxxx'
-console.log(howMuchWater(10,10,21));
+console.log(howMuchWater(10, 10, 21));
