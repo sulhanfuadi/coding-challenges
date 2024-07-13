@@ -1,6 +1,6 @@
 // Lagipula Hidup Akan Berakhir
-// July 01, 2024
-// https://www.codewars.com/kata/575fa9afee048b293e000287
+// July 11, 2024
+// https://www.codewars.com/kata/xxxxxxxxxxxxxxxxxxxx
 
 // Solution #01
 
