@@ -1,5 +1,5 @@
 // Take the First N Elements
-// July 12, 2024
+// July 13, 2024
 // https://www.codewars.com/kata/545afd0761aa4c3055001386
 
 // Solution #01
