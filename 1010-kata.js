@@ -1,5 +1,5 @@
 // Lagipula Hidup Akan Berakhir
-// August 01, 2024
+// August 11, 2024
 // https://www.codewars.com/kata/xxxxxxxxxxxxxxxxxxxx
 
 // Solution #01
