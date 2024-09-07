@@ -1,5 +1,5 @@
 # 88. Merge Sorted Array
-# September 06, 2024
+# September 07, 2024
 # https://leetcode.com/problems/merge-sorted-array
 
 # Solution
