@@ -1,5 +1,5 @@
 # 617. Merge Two Binary Trees
-# September 25, 2024
+# September 26, 2024
 # https://leetcode.com/problems/merge-two-binary-trees/
 
 # Solution
