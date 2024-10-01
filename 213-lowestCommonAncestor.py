@@ -1,5 +1,5 @@
 # 235. Lowest Common Ancestor of a Binary Search Tree
-# September 30, 2024
+# October 01, 2024
 # https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
 
 # Solution
