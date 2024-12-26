@@ -7,7 +7,9 @@ I hope you are wise and <strong>don't just copy-paste</strong> without understan
 That's all; hopefully, it's useful, thank you.
 
 ## References
+- <strong>[LeetCode](https://leetcode.com/)</strong>
 - <strong>[Codewars](https://www.codewars.com/)</strong>
+- <strong>[Easy LeetCode Interview Question by NeetCode](https://www.youtube.com/playlist?list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ)</strong>
 - <strong>[TANTANGAN CODING 2024 by Web Programming UNPAS](https://youtube.com/playlist?list=PLFIM0718LjIVrOglQcS_ZHkT5T_27Cmea&si=qz8ygKHs5HYnxPn9)</strong>
 - <strong>[Codewars - JavaScript - Level 8 kyu by ShortBear](https://youtube.com/playlist?list=PLDVHxUyqluR1l9q2TYHiiUqcfuaTozLov&si=HQAWiEroVoM9WJJL)</strong>
 - <strong>[Codewars - TypeScript - Level 8 kyu by ShortBear](https://youtube.com/playlist?list=PLDVHxUyqluR2ZxzlXSxqofQEqbv7ysxlR&si=gVhsGpwQmUVyoNou)</strong>
@@ -16,7 +18,7 @@ That's all; hopefully, it's useful, thank you.
 <strong>[Sulhan Fuadi](https://github.com/sulhanfuadi)</strong>
 
 <!-- <img src="https://www.codewars.com/users/sulhanfuadi/badges/small" >  -->
-<img src="https://www.codewars.com/users/sulhanfuadi/badges/small" >
+<!-- <img src="https://www.codewars.com/users/sulhanfuadi/badges/small" >  -->
 
 ---
 
