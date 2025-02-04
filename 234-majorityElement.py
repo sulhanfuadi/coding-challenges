@@ -16,3 +16,15 @@ class Solution:
         result = num
     
     return result
+
+  # Approach 2: Boyer–Moore Voting Algorithm
+  def majorityElementBoyerMoore(self, nums: List[int]) -> int:
+    count = 0
+    candidate = None
+
+    for num in nums:
+      if count == 0: # if the count is 0, set the candidate to the current number
+        candidate = num
+      count += 1 if num == candidate else -1 # if the current number is the candidate, increment the count, otherwise decrement it
+
+    return candidate # the candidate is the majority element
